@@ -4,6 +4,8 @@ Welcome to the official repository for AntiTbPred, a machine learning-based plat
 
 Web Server: http://webs.iiitd.edu.in/raghava/antitbpred/
 
+ZENODO : https://doi.org/10.5281/zenodo.20083571
+
 ---
 
 ## Citation
